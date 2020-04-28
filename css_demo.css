@@ -1,6 +1,6 @@
 .title{
   font-weight: bold;
-  font-size: 24px;
+  font-size: 45px;
   color: #44D7B6;
 }
 
@@ -17,5 +17,5 @@ h4 {
 }
 
 h1, p {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
