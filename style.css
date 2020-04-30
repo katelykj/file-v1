@@ -17,8 +17,9 @@ h3 {
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 24px;
   color: #262626;
+  font-family: 'Caveat', cursive;
 }
 
 .body{
@@ -31,7 +32,8 @@ h1{
   font-family: 'Yeseva One', cursive;
 }
 
-p, h2, h3, h4, ul{
+p, h2, h3, ul{
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 
