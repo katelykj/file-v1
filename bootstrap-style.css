@@ -1,12 +1,12 @@
 h1 {
-  color: #6E6BBF;
+  text-color: #6E6BBF;
   text-align: center;
   font-size: 42px;
   font-family: 'PT Serif', serif;
 }
 
 h2{
-  color: #6E6BBF;
+  text-color: #6E6BBF;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   font-wght:300;
@@ -15,7 +15,7 @@ h2{
 
 
 h3{
-  color: white;
+  text-color: white;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   font-wght:300;
@@ -25,8 +25,13 @@ h3{
 .button{
   height: 35px;
   width: 100px;
-  color: #B8BF7E;
+  background-color: #B8BF7E;
   position: center;
+  text-color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-wght:300;
+  font-size: 14px;
 }
 
 .flower-item {
