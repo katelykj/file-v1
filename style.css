@@ -36,4 +36,11 @@ p, h2, h3, ul{
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+.button{
+  height: 35px;
+  width: 100px;
+  color: #B8BF7E;
+  position: center;
+}
+
 
